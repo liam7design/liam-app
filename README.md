@@ -5,10 +5,14 @@
 개요 : 프로젝트에 대한 설명 \
 기간 : 2025.07.00 ~
 
+### React 
+
+- npx create-react-app 프로젝트 이름
+- react version : v.18.x
 
 ### node.js 
 
-- node version : v.16.x
+- node version : v.22.x
 
 ### 서버구동
 
